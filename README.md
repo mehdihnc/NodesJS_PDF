@@ -24,7 +24,7 @@ Ce document fournit des instructions détaillées et des explications sur la fa�
    - Utilisation d'une boucle `forEach` pour afficher une liste de tâches.
 
 6. **Création d'un Tableau**
-   - Utilisation d'une structure de données bidimensionnelle pour simuler un tableau.
+   - Utilisation d'une structure de données pour simuler un tableau.
 
 7. **Finalisation**
    - `end()` : Termine la création du PDF.
